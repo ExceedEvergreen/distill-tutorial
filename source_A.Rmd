@@ -1,0 +1,2 @@
+bibliography: bibliography.bib
+Source A was Primer.data. It was flawless.[@primerdata][@jones2018distill]
